@@ -1,0 +1,53 @@
+*::-webkit-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*::-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-ms-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+	
+}
+body input:required:valid,
+body textarea:required:valid {
+	
+}
+body {
+	background-color: #B0C4DE;
+	font-family: "ConsolaMonoBook";
+	font-size: 14px;
+}
+
+.form {
+	color: #00008B;
+}
+
+.pen {
+	margin-top: 70px;
+}
+
+.all {
+	font-size: 20px;
+	color: #191970
+}
+
+ a {
+	list-style-type: none;
+	display: inline-block;
+}
+
+ a:hover{
+	text-decoration: none;
+}
+
